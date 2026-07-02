@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="2449" height="1421" alt="animanga-0_343673" src="https://github.com/user-attachments/assets/534768c5-322c-4130-8253-448cb3a08bac" />
 
 <!--
 **Jorgmont/Jorgmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
