@@ -1,17 +1,12 @@
-## Hi there 👋
+
 <img width="2449" height="1421" alt="animanga-0_343673" src="https://github.com/user-attachments/assets/534768c5-322c-4130-8253-448cb3a08bac" />
+*"Un guerrero envuelto en sombras, con la espada siempre lista."*
 
-<!--
-**Jorgmont/Jorgmont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- **[C#](ca://s?q=Csharp_programming)**  
+- **[Python](ca://s?q=Python_programming)**  
+- **[Electrónica básica](ca://s?q=Electronica_basica)**  
+- **[Reparación de PC](ca://s?q=Reparacion_de_PC)**  
+---
